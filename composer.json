@@ -11,7 +11,8 @@
         }
     ],
     "require": {
-        "silverstripe/framework": "^4.0@dev"
+        "silverstripe/framework": "^4.0@dev",
+		"silverstripe/vendor-plugin": "^1.0"
     },
     "extra": {
         "branch-alias": {
